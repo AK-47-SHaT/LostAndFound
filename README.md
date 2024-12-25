@@ -40,5 +40,5 @@ The platform is designed to be user-friendly and supports secure management of u
 ## 🚀 How to Run the Project  
 1. Clone the repository:  
    ```bash  
-   git clone https://github.com/yourusername/lost-and-found.git  
-   cd lost-and-found
+   git clone https://github.com/AK-47-SHaT/LostAndFound.git  
+   cd LostAndFound 
