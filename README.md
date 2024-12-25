@@ -33,7 +33,6 @@ The platform is designed to be user-friendly and supports secure management of u
 - *User Registration & Login:* Secure authentication for users to access the platform.  
 - *Report Lost or Found Items:* Users can add details about lost or found items, including photos.  
 - *Search Functionality:* Search for items based on categories or keywords.  
-- *Admin Panel:* Moderators can review and manage reports.  
 
 ---
 
