@@ -1,6 +1,6 @@
 # Lost & Found Items - College Website  
 
-This repository contains the source code and resources for a *Lost & Found Items* website, developed by our team of five members. The project aims to help students and staff report and retrieve lost items efficiently.
+This repository contains the source code for a *Lost & Found Items* website (html and css only), developed by me. The project aims to help students and staff report and retrieve lost items efficiently.
 
 ## 📖 Project Overview  
 This website provides a platform for:  
@@ -12,14 +12,7 @@ The platform is designed to be user-friendly and supports secure management of u
 
 ---
 
-## 👥 Team Members  
-1. *[Team Member 1 Name]* - Backend Developer  
-2. *[Team Member 2 Name]* - Frontend Developer  
-3. *[Team Member 3 Name]* - Database Management  
-4. *[Team Member 4 Name]* - UI/UX Designer  
-5. *[Your Name]* - Full-Stack Developer  
 
----
 
 ## 🛠️ Technologies Used  
 - *Frontend:* HTML, CSS, JavaScript  
